@@ -69,5 +69,3 @@ The project utilizes a modern and robust technology stack:
 
 -----
 
-**Would you like me to ...**
-... generate the **Database Schema (ER Diagram)** text representation for the "Book Discovery" and "Borrowing" sprints to go into your documentation?
